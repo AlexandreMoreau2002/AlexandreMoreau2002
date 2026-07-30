@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇫🇷 French Fullstack developper<br>👯 I’m fullstack developer at thomyris Chambery<br>🌱 I’m currently learning python, javascript and devops tool<br>📫 How to reach me : moreaualexandre2002@gmail.com
+🇫🇷 French Fullstack developper<br>👯 I’m fullstack developer at Grow-your-business Arras<br>🌱 I’m currently learning python, javascript and devops tool<br>📫 How to reach me : moreaualexandre2002@gmail.com
 
 
 ## 🌐 Socials:
